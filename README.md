@@ -1,6 +1,6 @@
 # House-Prices-Advanced-Regression-Techniques
 
-EDA 
+EDA
 Removing columns that contain the same value in 100% ["Street", "Utilities"]
 Removing outliers : GrLivArea more than 4500.
 Improving values like Year more than 2017.
