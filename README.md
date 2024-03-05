@@ -30,6 +30,3 @@
 ## Modelization
 
 1. Linear Regression
-2. LASSO model selection
-3. GradientBoostingRegressor
-4. XGBRegressor
